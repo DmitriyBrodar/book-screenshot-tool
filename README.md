@@ -16,7 +16,7 @@ No need to install Python or packages
 
 Option 2: Run from Source
 1. Clone the repo: 
-git clone https://github.com/DmitriyBrodar/book-screenshot-tool.git
+git clone https://github.com/DmytroBrodar/book-screenshot-tool.git
 cd book-screenshot-tool
 
 2. Install dependencies:
@@ -33,4 +33,5 @@ How to Use:
 5. Press Start → screenshots are taken automatically and saved as a PDF.
 
 Make sure you're allowed to save the material you capture
+
 
